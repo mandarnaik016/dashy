@@ -48,11 +48,11 @@ sections:
         url: https://www.abuseipdb.com/
         target: newtab
         icon: https://i.ibb.co/ct37hxC/abuseipdb-logo.png 
-      - title: Google Hacking Database
+      - title: Google HDB
         url: https://www.exploit-db.com/google-hacking-database
         target: newtab
         icon: https://i.ibb.co/NVk5D8y/edb-logo.png
-      - title: OSINT Framework
-        url: https://osintframework.com/
+      - title: whoIS
+        url: https://whois.domaintools.com/
         target: newtab
-        icon: https://i.ibb.co/Kmvtf6K/osint.png      
+        icon: https://i.ibb.co/Y06QZrw/whois.jpg     
