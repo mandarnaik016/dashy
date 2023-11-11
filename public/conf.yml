@@ -16,11 +16,9 @@ appConfig:
 # Main content - An array of sections, each containing an array of items
 sections:
   - name: Home Control
-    icon: fas fa-house-signal
+    icon: fas fa-briefcase
     items:
-      - title: test
-        url: https://github.com/mandarnaik016/dashy/blob/main/public/conf.yml
-      - title: test
-        url: https://github.com/mandarnaik016/dashy/blob/main/public/conf.yml
-      - title: test
-        url: https://github.com/mandarnaik016/dashy/blob/main/public/conf.yml        
+      - title: Cortex Gateway
+        url: https://cortex-gateway.paloaltonetworks.com/signin/
+        target: newtab
+        icon: favicon
