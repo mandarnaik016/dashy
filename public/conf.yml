@@ -16,7 +16,7 @@ appConfig:
 # Main content - An array of sections, each containing an array of items
 sections:
   - name: Technology
-    icon: fas fa-briefcase
+    icon: fas fa-microchip
     items:
       - title: Cortex Gateway
         url: https://cortex-gateway.paloaltonetworks.com/signin/
@@ -27,9 +27,16 @@ sections:
         target: newtab
         icon: https://i.ibb.co/BZr0czw/seceon-inc-logo.png
   - name: Office365
-    icon: fas fa-microsoft
+    icon: fas fa-briefcase
     items:
       - title: Office
         url: https://www.office.com/
         target: newtab
         icon: https://i.ibb.co/7Xcs2Bg/lluw1ysvnkug.png
+  - name: Tools
+    icon: fas fa-fire
+    items:
+      - title: Spectre
+        url: https://mandarnaik016.github.io/spectre/
+        target: newtab
+        icon: https://mandarnaik016.github.io/spectre/images/spectre.png     
