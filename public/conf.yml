@@ -26,3 +26,10 @@ sections:
         url: https://otmcloud.seceon.com/nextgen/v1/#/login
         target: newtab
         icon: https://i.ibb.co/BZr0czw/seceon-inc-logo.png
+  - name: Office365
+    icon: fas fa-microsoft
+    items:
+      - title: Office
+        url: https://www.office.com/
+        target: newtab
+        icon: https://i.ibb.co/7Xcs2Bg/lluw1ysvnkug.png
