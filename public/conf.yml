@@ -15,10 +15,14 @@ appConfig:
 
 # Main content - An array of sections, each containing an array of items
 sections:
-  - name: Home Control
+  - name: Technology
     icon: fas fa-briefcase
     items:
       - title: Cortex Gateway
         url: https://cortex-gateway.paloaltonetworks.com/signin/
         target: newtab
-        icon: favicon
+        icon: https://i.ibb.co/5GDJx5q/ico-cortex-xdr.png
+      - title: Seceon
+        url: https://otmcloud.seceon.com/nextgen/v1/#/login
+        target: newtab
+        icon: https://i.ibb.co/BZr0czw/seceon-inc-logo.png
