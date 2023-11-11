@@ -40,3 +40,11 @@ sections:
         url: https://mandarnaik016.github.io/spectre/
         target: newtab
         icon: https://mandarnaik016.github.io/spectre/images/spectre.png     
+      - title: Virustotal
+        url: https://www.virustotal.com/gui/home/upload
+        target: newtab
+        icon: https://i.ibb.co/g70fX17/virustotal-logo-icon-171247.png
+      - title: AbuseIPDB
+        url: https://www.abuseipdb.com/
+        target: newtab
+        icon: https://i.ibb.co/PxQNJ8q/abuseipdb-png-pagespeed-ce-CI8-T6-Ws-XU7.png   
