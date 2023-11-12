@@ -33,6 +33,17 @@ sections:
         url: https://www.office.com/
         target: newtab
         icon: https://i.ibb.co/7Xcs2Bg/lluw1ysvnkug.png
+  - name: Extension 
+    icon: fa fa-github
+    items:
+      - title: Sputnik 
+        url: https://github.com/mitchmoser/sputnik
+        target: newtab
+        icon: fa fa-github   
+      - title: Mitaka 
+        url: https://github.com/ninoseki/mitaka
+        target: newtab
+        icon: fa fa-github 
   - name: Tools
     icon: fas fa-fire
     items:
@@ -60,14 +71,4 @@ sections:
         url: https://whois.domaintools.com/
         target: newtab
         icon: https://i.ibb.co/Y06QZrw/whois.jpg         
-  - name: Extension 
-    icon: fa fa-github
-    items:
-      - title: Sputnik 
-        url: https://github.com/mitchmoser/sputnik#sputnik-osint-extension
-        target: newtab
-        icon: fa fa-github   
-      - title: Mitaka 
-        url: https://github.com/ninoseki/mitaka
-        target: newtab
-        icon: fa fa-github          
+         
