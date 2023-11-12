@@ -39,11 +39,11 @@ sections:
       - title: Sputnik 
         url: https://github.com/mitchmoser/sputnik
         target: newtab
-        icon: fa fa-github   
+        icon: https://i.ibb.co/CBm1t3w/github-mark-white.png  
       - title: Mitaka 
         url: https://github.com/ninoseki/mitaka
         target: newtab
-        icon: fa fa-github 
+        icon: https://i.ibb.co/CBm1t3w/github-mark-white.png
   - name: Tools
     icon: fas fa-fire
     items:
