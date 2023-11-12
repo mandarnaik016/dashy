@@ -59,4 +59,15 @@ sections:
       - title: whoIS
         url: https://whois.domaintools.com/
         target: newtab
-        icon: https://i.ibb.co/Y06QZrw/whois.jpg             
+        icon: https://i.ibb.co/Y06QZrw/whois.jpg         
+  - name: Extension 
+    icon: fa fa-github
+    items:
+      - title: Sputnik 
+        url: https://github.com/mitchmoser/sputnik#sputnik-osint-extension
+        target: newtab
+        icon: fa fa-github   
+      - title: Mitaka 
+        url: https://github.com/ninoseki/mitaka
+        target: newtab
+        icon: fa fa-github          
