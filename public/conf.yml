@@ -16,7 +16,7 @@ appConfig:
 # Main content - An array of sections, each containing an array of items
 sections:
   - name: Technology
-    icon: fas fa-microchip
+    icon: fa fa-microchip
     items:
       - title: Cortex Gateway
         url: https://cortex-gateway.paloaltonetworks.com/signin/
@@ -27,7 +27,7 @@ sections:
         target: newtab
         icon: https://i.ibb.co/BZr0czw/seceon-inc-logo.png
   - name: Office365
-    icon: fas fa-briefcase
+    icon: fa fa-briefcase
     items:
       - title: Office
         url: https://www.office.com/
@@ -45,7 +45,7 @@ sections:
         target: newtab
         icon: https://i.ibb.co/CBm1t3w/github-mark-white.png
   - name: Tools
-    icon: fas fa-fire
+    icon: fa fa-fire
     items:
       - title: Spectre
         url: https://mandarnaik016.github.io/spectre/
@@ -71,4 +71,26 @@ sections:
         url: https://whois.domaintools.com/
         target: newtab
         icon: https://i.ibb.co/Y06QZrw/whois.jpg         
-         
+  - name: Hosting
+    icon: fa fa-cloud-upload
+    items:
+      - title: Ouo
+        url: https://ouo.io/
+        target: newtab
+        icon: https://ouo.io/images/logo.png
+      - title: File-Upload
+        url: https://www.file-upload.org/
+        target: newtab
+        icon: https://www.file-upload.org/assets/images/logo_new.png
+      - title: Up-4Ever
+        url: https://www.up-4ever.net/
+        target: newtab
+        icon: https://www.up-4ever.net/assets/image/logo.png
+      - title: Mirrored
+        url: https://www.mirrored.to/
+        target: newtab
+        icon: https://www.mirrored.to/templates/mirrored/images/logo.png
+      - title: Mirrorace
+        url: https://mirrorace.org/
+        target: newtab
+        icon: https://mirrorace.org/themes/mirrorace/assets/img/logo.png         
